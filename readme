@@ -1,0 +1,10 @@
+git remote add origin https://github.com/self067/self067.github.io.git
+git checkout -b gh-pages
+git add --all
+
+
+
+
+
+
+ git push --set-upstream origin gh-pages
